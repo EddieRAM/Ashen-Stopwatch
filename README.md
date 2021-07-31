@@ -1,2 +1,2 @@
-# Ashen-Stopwatch
-A React stopwatch timer project.
+# Ashen Countdown Timer
+A React countdown timer to a special date.
