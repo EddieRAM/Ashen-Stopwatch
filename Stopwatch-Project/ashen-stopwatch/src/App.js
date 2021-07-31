@@ -47,8 +47,8 @@ const App = () => {
       <section className="timer">
         <div>
           <span className="mdi mdi-calendar-clock timer-icon"></span>
-          <h2>Countdown Timer</h2>
-          <p>Countdown to a really special date. One you could or would never imagine!</p>
+          <h2>Ashen Countdown Timer</h2>
+          <p>Countdown to the most special day of the year!</p>
         </div>
         <div>
           <section>
